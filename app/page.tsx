@@ -1,3 +1,4 @@
+"use client";
 import Contacts from "@/component/Contacts";
 import Features from "@/component/Features";
 import Herosection from "@/component/HeroSection";
