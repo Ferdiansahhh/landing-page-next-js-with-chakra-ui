@@ -92,9 +92,7 @@ export default function singup() {
               </Button>
             </Stack>
             <Stack pt={6}>
-              <Text align={"center"}
-              href={"signin"}
-              >
+              <Text align={"center"} href={"signin"}>
                 Already a user? <Link color={"blue.400"}>Login</Link>
               </Text>
             </Stack>

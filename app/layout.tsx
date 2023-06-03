@@ -1,4 +1,4 @@
-"use client";
+
 
 import Navbar from "@/component/Navbar";
 import { ChakraProvider } from "@chakra-ui/react";
